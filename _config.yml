@@ -63,6 +63,9 @@ gitalk:
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
   perPage: 15
 
+# Disqus（https://disqus.com/）
+disqus_username: peonytao
+
 
 # 统计
 
