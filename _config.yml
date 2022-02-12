@@ -1,10 +1,10 @@
 # Site settings
-title: 刘涵 Blog
-SEOTitle: 刘涵 的博客
+title: peonytao Blog
+SEOTitle: 刘涵的博客
 header-img: img/post-bg-desk.jpg
 email: 2582743810@qq.com
 description: "一些分享"
-keyword: "刘涵 Blog, 刘涵的博客"
+keyword: "peonytao Blog, 刘涵的博客"
 url: "https://peonytao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "" # you code repository
