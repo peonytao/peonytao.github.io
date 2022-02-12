@@ -27,7 +27,7 @@ github_username:    peonytao
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 13
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -54,7 +54,7 @@ kramdown:
 # 评论系统
 # Gitalk
 gitalk:
-  enable: true   #是否开启Gitalk评论
+  enable: false   #是否开启Gitalk评论
   clientID: 5943aeedd7ee1a1cbdf7        # 嘿，别乱看我的秘密                #生成的clientID
   clientSecret: 4ffbc9e4eb8b6aef2b390b2bda69ed6a744c5c07    #生成的clientSecret
   repo: kalicn.github.io    #仓库名称
@@ -68,9 +68,9 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4383e168cd44bd4eeedaa34229a603c5
+# ba_track_id: 4383e168cd44bd4eeedaa34229a603c5
 
-ga_track_id: 'UA-171298607-1'
+ga_track_id: 'G-EESHL9S8WE'
 ga_domain: auto
 
 
