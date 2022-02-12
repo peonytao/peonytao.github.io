@@ -1,24 +1,24 @@
 # Site settings
-title: Kali Blog
-SEOTitle: Kali 的小站
+title: 刘涵 Blog
+SEOTitle: 刘涵 的博客
 header-img: img/post-bg-desk.jpg
-email: kalierincn@outlook.com
-description: "中立最好，学校最坏."
-keyword: "Kali Blog, Kali的小站"
-url: "https://kalicn.github.io"          # your host, for absolute URL
+email: 2582743810@qq.com
+description: "一些分享"
+keyword: "刘涵 Blog, 刘涵的博客"
+url: "https://peonytao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/kalicn/kalicn.github.io.git" # you code repository
+github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "与其看教科书，还不如读Linux源码。"
+sidebar-about-description: "万事顺意"
 sidebar-avatar: /img/yeswecode.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: true
-github_username:    kalicn
+github_username:    peonytao
 
 
 
@@ -86,20 +86,7 @@ featured-condition-size: 1             # 相同标签数量大于这个数，才
 # Friends
 friends: [
     {
-        title: "七夏浅笑",
-        href: "http://julydate.com/"
-    },{
-        title: "可视化",
-        href: "https://gujiayu7676.github.io/"
-
-    },{
-        title: "Jiyiren.Blog",
-        href: "https://jiyiren.github.io/"
-    },{
-        title: "由我管理的NoSchoolBlog",
-        href: "https://kalicn.github.io/noschoolblog/"
-    },{
-        title: "KaliBlog分站",
-        href: "https://kalicnblog.blogspot.com"
-    }    
+        title: "",
+        href: ""
+    },
 ]
