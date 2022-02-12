@@ -1,17 +1,17 @@
 # Site settings
-title: 王冉是我儿 Blog
+title: Gardenia Blog
 SEOTitle: 刘涵的博客
 header-img: 
 email: 2582743810@qq.com
 description: "一些分享"
-keyword: "peonytao Blog, 刘涵的博客"
+keyword: "Gardenia Blog, 刘涵的博客"
 url: "https://peonytao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "万事顺意"
+sidebar-about-description: "刘涵，一个刚入行的程序员"
 sidebar-avatar: /img/head_portrait.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
