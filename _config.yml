@@ -68,10 +68,10 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: 4383e168cd44bd4eeedaa34229a603c5
+ba_track_id: c4da636b7bb3aeb483af39d44a911792
 
-ga_track_id: 'G-EESHL9S8WE'
-ga_domain: auto
+#ga_track_id: 'G-EESHL9S8WE'
+#ga_domain: auto
 
 
 
